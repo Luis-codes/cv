@@ -1,5 +1,5 @@
 body {
-    background-color: #84a9ac;
+    background-color: #235;
     color: white;
   }
 
@@ -16,14 +16,14 @@ img {
   }
 
   h1 {
-    color: #204051;
+    color: #626a7a;
   }
 
   h3 {
-    color: #3b6978;
+    color: grey;
   }
 
 h3 a {
   text-decoration: none;
-  color: #204051;
+  color: #f3c623;
 }
